@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Exercise2</string>
+    <string name="app_name">Formulir Pengajuan Skripsi</string>
+    <string name="Next">Next</string>
+    <string name="submit">submit</string>
+    <string name="back">back</string>
+    <string name="Nama">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="Konsentrasi">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="Dospem_1">Dosen Pembimbing 1</string>
+    <string name="Dospem_2">Dosen Pembimbing 2</string>
+    <string name="Dosen1">Haris Setiawan</string>
+    <string name="Dosen2">Cahya Damarjati</string>
+    <string name="Dosen3">Aprilia Kurniati</string>
 </resources>
